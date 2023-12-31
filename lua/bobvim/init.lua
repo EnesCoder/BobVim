@@ -1,6 +1,6 @@
 require("bobvim.options")
 require("bobvim.remap")
-require("bobvim.packer")
+require("bobvim.lazy")
 require("bobvim.commands")
 
 print("welcome to BobVim mate!")

@@ -7,5 +7,7 @@ function SetColors(color)
 	--end
 end
 
-SetColors('tokyonight-moon')
+local def_theme = 'catppuccin-mocha'
+
+SetColors(def_theme)
 
